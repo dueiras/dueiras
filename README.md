@@ -1,8 +1,10 @@
+![Cover](https://github.com/dueiras/dueiras/Images/master/cover.png?raw=true)
+
 Hey 👋🏻, I'm dueiras
 
 I am Mechatronics Engineer student from Brazil, currently studying at Politecnico di Torino. I am interested in Robotics, control, machine learning and AI. 🤖
 
-## 📬 Get in touch
+## 📬 Where to find me
 
 - LinkedIn: [linkedin.com/in/dueiras][2]
 - Medium : [medium.com/@dueiras][3]
