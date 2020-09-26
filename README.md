@@ -1,4 +1,4 @@
-![Cover](https://github.com/dueiras/dueiras/Images/master/cover.png?raw=true)
+![Cover](https://github.com/dueiras/dueiras/blob/master/Images/cover.png?raw=true)
 
 Hey 👋🏻, I'm dueiras
 
