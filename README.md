@@ -2,7 +2,8 @@
 
 Hey 👋🏻, I'm dueiras
 
-I am Mechatronics Engineer student from Brazil, currently studying at Politecnico di Torino. I am interested in Robotics, control, machine learning and AI. 🤖
+I am a Mechatronics Engineer graduated from the University of São Paulo with a Masters of Science from Politecnico di Torino. I'm Interested in Robotics, control and AI 🤖.
+I'm currently working developing an autonomous vessel with the Brazilian Navy 🛥️ 
 
 ## 📬 Where to find me
 
