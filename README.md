@@ -18,6 +18,7 @@ I'm currently working developing an autonomous vessel with the Brazilian Navy ğŸ
 
 ## &#x1f4c8; My GitHub Stats
 
+<!--
 <a href="https://github.com/dueiras/dueiras">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dueiras&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -25,6 +26,9 @@ I'm currently working developing an autonomous vessel with the Brazilian Navy ğŸ
 <a href="https://github.com/dueiras/dueiras">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dueiras&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
+-->
+[![dueiras's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dueiras&hide=R&theme=blueberry&langs_count=4)](https://github.com/dueiras/github-readme-stats)
+![dueiras's GitHub stats](https://github-readme-stats.vercel.app/api?username=dueiras&theme=blueberry&show_icons=true)
 
 [2]: https://www.linkedin.com/in/dueiras
 [3]: https://medium.com/@dueiras
